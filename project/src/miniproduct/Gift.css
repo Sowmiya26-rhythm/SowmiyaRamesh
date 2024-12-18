@@ -1,0 +1,85 @@
+.add01 img{
+    width: 550px;
+    margin-left: 150px;
+    margin-top: 40px;
+
+}
+.space{
+    padding-top: 90px;
+    padding-left: 80px;
+    font-size: 23px;
+    font-weight: bold;
+}
+.space01{
+    padding-left: 80px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.star01{
+   color: #ffcce4 ;
+   padding-left: 80px;
+}
+.space00{
+    padding-left: 80px;
+    color: #7170FB;
+    padding-top: 20px;
+}
+.drop .dropdown{
+    margin-left: 80px;
+    background-color: transparent;
+    border-color: black;
+    
+}
+.drop .btn{
+    border-color: rgb(113, 111, 111);
+    padding: 10px;
+    width: 400px;
+    text-align: left;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.check01{
+    padding-left: 80px;
+    padding-top: 10px;
+}
+.pink{
+    width: 400px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #fc5095;
+    margin-left: 80px;
+    margin-top: 10px;
+    border-color: transparent;
+    color: white;
+}
+.qus02{
+    padding-left: 100px;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: 14px;
+}
+.qus03{
+    padding-left: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+}
+.qus04{
+    padding-left: 100px;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 10px;
+}
+.qus05{
+    padding-left: 100px;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 10px;
+}
+.ans01{
+    padding-left: 100px;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+}

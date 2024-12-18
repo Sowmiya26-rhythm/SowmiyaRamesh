@@ -1,0 +1,200 @@
+.pics04 img{
+    width: 100%;
+    height: 80vh;
+    overflow: hidden;
+}
+.slide01{
+    text-align: center;
+    color: white;
+}
+.slide02{
+    text-align: center;
+    color: white;
+}
+.slide03{
+    text-align: center;
+    color: white;
+}
+.slideall{
+    background-color:#fc5095;
+    padding: 10px;
+}
+.note02 {
+background-color: white;
+width: 200px;
+padding: 10px;
+text-align: center;
+font-size: 25px;
+color: #fc5095;
+font-weight: bold;
+}
+.notes03{
+    margin-bottom: 700px;
+    background-color: white;
+width: 200px;
+padding: 10px;
+text-align: center;
+font-size: 25px;
+color: #fc5095;
+font-weight: bold;
+}
+.notes04{
+    width: 200px;
+    padding: 10px;
+    border-radius: 14px;
+    background-color: #fc5095;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    border-color: #fc5095;
+    margin-bottom: 500px;
+  
+
+  }
+  
+
+.notes05{
+    width: 200px;
+    padding: 10px;
+    border-radius: 14px;
+    background-color: #fc5095;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    border-color: #fc5095;
+}
+.line03{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 40px;
+}
+.line04{
+    padding-left: 700px;
+}
+.next02{
+    margin-top: 50px;
+}
+.mini01{
+    background-color: transparent;
+    border-color: transparent;
+}
+.mini01 img{
+    border-radius: 20px;
+}
+.price00{
+    text-decoration: line-through;
+    color: rgb(133, 131, 131);
+    padding-left: 10px;
+}
+.price01{
+    color: #fc5095;
+    display: flex;
+}
+.star{
+    color: rgb(244, 175, 0);
+    display: flex;
+}
+.five{
+    color: black;
+    font-size: 12px;
+    padding-left: 10px;
+    font-weight: bold;
+
+}
+.hello01{
+    margin-bottom: 550px;
+    margin-right: 100px;
+    width: 100px;
+    padding: 6px;
+    border-radius: 14px;
+    background-color: #fc5095;
+    color: white;
+    font-weight: bold;
+    border-color: #fc5095;
+}
+.heart01{
+    margin-bottom: 570px;
+    margin-left: 40px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.key02 img{
+    width: 350px;
+    /* height: 80vh; */
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.key03{
+    background-color: transparent;
+    border-color: transparent;
+    border-radius: 20px;
+}
+.hii01{
+    background-color: #f1f4ff;
+    width: 90%;
+    margin-left: 70px;
+    border-color: transparent;
+    border-radius: 15px;
+}
+.key02 {
+    margin-top: 40px;
+}
+.gifts01{
+    background-color: #fc5095;
+    color: white;
+    font-weight: bold;
+    margin-left: 130px;
+}
+.gifts02{
+    text-align: center;
+}
+.gifts03{
+    text-align: center;
+    color: #fc5095;
+    font-weight: bold;
+    
+    
+    font-weight: 400;
+}
+.there02 img{
+    width: 700px;
+    margin-top: 40px;
+    border-radius: 15px;
+}
+.side01{
+    padding-top: 200px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.side02{
+    text-align: center;
+    font-size: 25px;
+}
+.side03{
+    text-align: center;
+    font-size: 15px;
+    padding-left: 70px;
+}
+.side04{
+    margin-left: 250px;
+    width: 150px;
+    padding: 8px;
+    background-color: #fc5095;
+    color: white;
+    border-color: transparent;
+    font-weight: bold;
+    border-radius: 15px;
+}
+.mmm01{
+    background-color: #f1f4ff;
+    margin-top: 50px;
+    width: 90%;
+    margin-left: 70px;
+    border-color: transparent;
+    border-radius: 15px;
+}

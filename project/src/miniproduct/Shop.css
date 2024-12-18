@@ -1,0 +1,54 @@
+.treding01{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    text-transform: uppercase;
+    padding-top: 70px;
+}
+.treding02{
+    text-align: center;
+    padding-top: 40px;
+}
+.hello{
+    background-color: transparent;
+    border-color: lightgray;
+    padding: 13px;
+    width: 200px;
+}
+.treding04 .card{
+    width: 300px;
+    padding: 13px;
+}
+.lock{
+    margin-left: 440px;
+}
+.title01{
+    font-size: 13px;
+    text-align: center;
+}
+.price01{
+    text-align: center;
+    
+}
+.space01 .space{
+    margin-top: 70px;
+}
+.hello03{
+    margin-bottom: 550px;
+    margin-right: 100px;
+    width: 100px;
+    padding: 6px;
+    border-radius: 14px;
+    background-color: #fc5095;
+    color: white;
+    font-weight: bold;
+    border-color: #fc5095;
+}
+.hello03{
+    margin-bottom: 550px;
+    /* margin-left: 40px; */
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    
+}

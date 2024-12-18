@@ -1,0 +1,48 @@
+.pg{
+    text-transform: uppercase;
+    text-align: center;
+    /* font-size: 25px; */
+    padding-top: 20px;
+    font-weight: bold;
+}
+.f2 ul{
+    margin-top: 40px;
+}
+.home{
+    padding-top: 10px;
+}
+.f3 .form-floating {
+    margin-top: 45px;
+}
+.f3 .floatingInput{
+    color: lightgrey;
+}
+.enter{
+    padding-top: 20px;
+    font-weight: 600;
+}
+.enter01{
+    padding-top: 20px;
+    font-weight: 600;
+}
+.enter02{
+    padding-top: 20px;
+    font-weight: 600;
+}
+.send{
+    background-color: #fc5095;
+    width: 630px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #fc5095;
+    color: white;
+    margin-top: 10px;
+}
+.caps{
+    padding-top: 70px;
+    text-align: center;
+    font-weight: 500;
+}
+.f3 .form-control{
+    color: lightgrey;
+}
